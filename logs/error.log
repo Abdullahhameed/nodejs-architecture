@@ -1,0 +1,52 @@
+{ 
+      'timestamp' => 2024-10-21T20:22:49.327Z 
+      'error' =>    uncaughtException: Error: ReferenceError: ixtems is not defined
+Error: Error: ReferenceError: ixtems is not defined
+    at file:///home/abdullah/Projects/MyProducts/FileConverter/server.js:30:11
+    at Layer.handle_error (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:326:13)
+    at /home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:346:12)
+    at Immediate.next (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:280:10)
+    at Immediate._onImmediate (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:646:15)
+    at process.processImmediate (node:internal/timers:513:21) 
+  }
+{ 
+      'timestamp' => 2024-10-21T20:22:53.203Z 
+      'error' =>    uncaughtException: Error: ReferenceError: ixtems is not defined
+Error: Error: ReferenceError: ixtems is not defined
+    at file:///home/abdullah/Projects/MyProducts/FileConverter/server.js:30:11
+    at Layer.handle_error (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:326:13)
+    at /home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:346:12)
+    at Immediate.next (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:280:10)
+    at Immediate._onImmediate (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:646:15)
+    at process.processImmediate (node:internal/timers:513:21) 
+  }
+{ 
+      'timestamp' => 2024-10-21T20:23:13.882Z 
+      'error' =>    uncaughtException: Error: ReferenceError: ixtems is not defined
+Error: Error: ReferenceError: ixtems is not defined
+    at file:///home/abdullah/Projects/MyProducts/FileConverter/server.js:30:11
+    at Layer.handle_error (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:326:13)
+    at /home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:346:12)
+    at Immediate.next (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:280:10)
+    at Immediate._onImmediate (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:646:15)
+    at process.processImmediate (node:internal/timers:513:21) 
+  }
+{ 
+      'timestamp' => 2024-10-21T20:28:06.048Z 
+      'error' =>    uncaughtException: ReferenceError: Loclk is not defined
+Error: ReferenceError: Loclk is not defined
+    at file:///home/abdullah/Projects/MyProducts/FileConverter/routes/indexRoutes.js:14:11
+    at Layer.handle_error (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:326:13)
+    at /home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:346:12)
+    at Immediate.next (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:280:10)
+    at Immediate._onImmediate (/home/abdullah/Projects/MyProducts/FileConverter/node_modules/express/lib/router/index.js:646:15)
+    at process.processImmediate (node:internal/timers:513:21) 
+  }
